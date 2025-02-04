@@ -1,13 +1,13 @@
 # 👋 **Welcome to Data Science & Machine Learning Projects Portfolio**
 
-Aspiring Data Scientist and Machine Learning Specialist focused on utilizing data to drive impactful changes. Skilled in Python, SQL, and data visualization tools like Tableau and Looker Studio. Experienced in leading projects that align with sustainability goals, including renewable energy and healthcare analytics. Runner-up 1st in the Startup Campus Final Project Showcase, demonstrating the ability to deliver innovative, data-driven solutions. Adept at communication, problem-solving, and collaboration, with a passion for leveraging data insights to solve complex challenges.
+Aspiring Data Analyst and Machine Learning Specialist focused on utilizing data to drive impactful changes. Skilled in Python, SQL, and data visualization tools like Tableau and Looker Studio. Experienced in leading projects that align with sustainability goals, including renewable energy and healthcare analytics. Runner-up 1st in the Startup Campus Final Project Showcase, demonstrating the ability to deliver innovative, data-driven solutions. Adept at communication, problem-solving, and collaboration, with a passion for leveraging data insights to solve complex challenges.
 
 ---
 
 ### 🌟 **Skills & Tools**
 
 - **Programming Languages**: Python, SQL
-- **Libraries & Frameworks**: TensorFlow,  scikit-learn, Keras.
+- **Libraries & Frameworks**: scikit-learn 
 - **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn
 - **Modeling & Algorithms**: Classification, Regression, CNN, LSTM, Random Forest, XGBoost, SVM, Decision Tree, AdaBoost.
 - **Tools**: Google Colab, Anaconda, Streamlit, MySQL
@@ -17,31 +17,23 @@ Aspiring Data Scientist and Machine Learning Specialist focused on utilizing dat
 ### 📫 **Contact Me**
 Feel free to reach out if you have any questions or would like to collaborate on any AI/ML projects!
 
-- **Email**: mbagusprayogi2@gmail.com
-- **LinkedIn**: www.linkedin.com/in/mbagusprayogi
-- **GitHub**: https://github.com/sagara212
+- **Email**: mochamadrizqii1@gmail.com
+- **LinkedIn**: [www.linkedin.com/in/mochamad-rizqi](https://www.linkedin.com/in/mochamad-rizqi/)
+- **GitHub**: https://github.com/Rizqii1
 
 ---
 
 ### 🏆 **Certifications & Achievements**
 ## Certification
--	Data Science: Greener Future With Data-Driven (Startup Campus)
--	Fundamental of Deep Learning (NVIDIA)
--	Time Series Analysis with Python (365 Data Science)
--	ASEAN Data Science Explorer 2024 (ASEAN Foundation).
--	Microsoft Certified: Azure AI Fundamentals (Mereka)
--	Belajar Dasar Data Science (Dicoding)
--	Belajar Machine Learning Untuk Pemula (Dicoding)
--	Memulai Pemrograman Dengan Python (Dicoding)
--	Belajar Dasar Sql (Dicoding)
--	Belajar Dasar Visualisasi Data (Dicoding)
--	Belajar Analysis Data dengan Python (Dicoding)
--	Python Lanjutan (Skilvul)
--	Algorithm And Data Structures With Python (Skilvul)
+-	Certificate of Achievement - Home Credit Indonesia Data Science Project Based Internship Program
+-	Certificate of Achievement - Kimia Farma Big Data Analytics Project Based Internship Program
+-	Data Visualization For Data Analyst - Bantu Ngerti
+-	SQL for Data Analyst - Bantu Ngerti
 
 
 ## Achievement
-- Runner Up 1 Showcase Final Project at Startup Campus.
+- Certificate of Achievement - Home Credit Indonesia Data Science Project Based Internship Program
+- Certificate of Achievement - Kimia Farma Big Data Analytics Project Based Internship Program
 
 <h1 align="center"> Skill Set 🛠</h1>
 <p align="center"> Skills in Python, Machine Learning, Data Analysis, and more</p>
