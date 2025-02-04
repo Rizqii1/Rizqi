@@ -14,7 +14,7 @@ Proficient in communication, problem-solving, and collaboration, with a passion 
 - **Libraries & Frameworks**: scikit-learn 
 - **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn
 - **Modeling & Algorithms**: Classification, Regression, CNN, LSTM, Random Forest, XGBoost, SVM, Decision Tree, AdaBoost.
-- **Tools**: Google Colab, Anaconda, Streamlit, MySQL
+- **Tools**: Google Colab, Anaconda, Streamlit, MySQL, PostgreSQL, GCP (Google Cloud Platform)
 
 ---
 
