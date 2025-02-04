@@ -1,6 +1,10 @@
 # 👋 **Welcome to Data Science & Machine Learning Projects Portfolio**
 
-Aspiring Data Analyst and Machine Learning Specialist focused on utilizing data to drive impactful changes. Skilled in Python, SQL, and data visualization tools like Tableau and Looker Studio. Experienced in leading projects that align with sustainability goals, including renewable energy and healthcare analytics. Runner-up 1st in the Startup Campus Final Project Showcase, demonstrating the ability to deliver innovative, data-driven solutions. Adept at communication, problem-solving, and collaboration, with a passion for leveraging data insights to solve complex challenges.
+Aspiring Data Scientist and Machine Learning Specialist focused on using data to drive impactful change. Skilled in Python and machine learning, with experience in data pre-processing, predictive modeling, and deployment. Proficient in data visualization tools such as Tableau and Looker Studio to uncover meaningful insights.
+
+Experienced in various data-driven projects, including virtual project-based internships at Kimia Farma as a Big Data Analyst and at Home Credit Indonesia as a Data Scientist, where I developed a credit risk prediction model that increased accuracy by 15%, and analyzed customer payment patterns to support business strategy. Additionally, as a Database Developer Intern at Lestary Gypsum, I built Java-based desktop applications to optimize sales and inventory management.
+
+Proficient in communication, problem-solving, and collaboration, with a passion for leveraging data-driven insights to support business decision-making
 
 ---
 
